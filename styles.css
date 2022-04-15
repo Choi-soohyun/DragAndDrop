@@ -3,7 +3,8 @@ body {
 }
 
 .container {
-  margin-top: 1rem;
+  display: flex;
+  margin-bottom: 1rem;
   padding: 1rem;
   background-color: #333;
 }
